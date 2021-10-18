@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141459588841",
+    "project_id": "therarewards",
+    "storage_bucket": "therarewards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141459588841:android:d43583efe4e6bca7e41278",
+        "android_client_info": {
+          "package_name": "com.example.thera_rewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141459588841-i2bqnarearudb5ulk1qd5cu53cjdec8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thera_rewards",
+            "certificate_hash": "7f4280b3fcae52ad534141fa4875dbbba1d42cd9"
+          }
+        },
+        {
+          "client_id": "141459588841-easd906tekvt4krqrbkucl2d5kbbdeea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWw-rfx56z2-zndIzku5RBlzm179bkDqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141459588841-easd906tekvt4krqrbkucl2d5kbbdeea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
